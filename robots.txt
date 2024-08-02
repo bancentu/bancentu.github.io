@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bancentu.github.io/sitemap.html.gz
+Sitemap: https://bancentu.github.io/app/sitemap.html.gz
+Sitemap: https://bancentu.github.io/assets/sitemap.html.gz
+Sitemap: https://bancentu.github.io/css/sitemap.html.gz
+Sitemap: https://bancentu.github.io/includes/sitemap.html.gz
+Sitemap: https://bancentu.github.io/item/sitemap.html.gz
+Sitemap: https://bancentu.github.io/src/sitemap.html.gz
